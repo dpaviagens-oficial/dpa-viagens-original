@@ -2,8 +2,5 @@
   "framework": "vite",
   "buildCommand": "npx vite build --config vite.config.prod.js",
   "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "engines": {
-    "node": "20.x"
-  }
+  "installCommand": "npm install"
 }
